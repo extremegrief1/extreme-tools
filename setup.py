@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name = 'extreme-tools',  
-    version = '0.1',
+    version = '0.2',
     author = "ExtremeGrief",
     description = "A Python module which adds basic tools like clear_console()",
     long_description = long_description,
